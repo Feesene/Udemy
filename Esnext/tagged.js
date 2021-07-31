@@ -11,3 +11,4 @@ function real (partes, ...valores){
 const preco = 29.99
 const precoparcela = 11
 console.log(real `1x de ${preco} ou 3x de ${precoparcela}`)
+console.log('teste')
