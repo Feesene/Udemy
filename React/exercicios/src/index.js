@@ -5,7 +5,8 @@ import Pai  from "./components/Pai";
 
 ReactDOM.render(
   <div>
-  <Pai nome="Agnaldo" sobrenome="Ribeiro" />
+  <Pai nome="Teste" sobrenome="Ribeiro" />
   </div>,
   document.getElementById("root")
 );
+
