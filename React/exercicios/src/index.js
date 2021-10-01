@@ -58,5 +58,9 @@ ReactDOM.render(
       }}
     />
   </View>,
+  <div>
+  <Pai nome="Agnaldo" sobrenome="Ribeiro" />
+  </div>,
   document.getElementById("root")
 );
+
